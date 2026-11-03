@@ -28,7 +28,3 @@ pip install -r requirements.txt
 python scraper.py --pages 3        # quick test
 python scraper.py                  # 1,000 books, basic fields
 python scraper.py --details        # 1,000 books with category/description (about 10 min)
-```
-
-## Ideas for next tasks
-The CSV works for Task 2 (EDA: price vs rating, category distribution) and Task 3 (visualization).
